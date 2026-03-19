@@ -1,9 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Luik1212\\source\\repos\\Farmacia\\",
+  "WorkspaceRootPath": "C:\\Users\\Luik1212\\Documents\\GitHub\\Farmacia2\\Farmacia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D50195F7-1BAA-4DC9-B059-FBD83FF8B690}|Interface\\Interface.csproj|c:\\users\\luik1212\\source\\repos\\farmacia\\interface\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D50195F7-1BAA-4DC9-B059-FBD83FF8B690}|Interface\\Interface.csproj|c:\\users\\luik1212\\documents\\github\\farmacia2\\farmacia\\interface\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D50195F7-1BAA-4DC9-B059-FBD83FF8B690}|Interface\\Interface.csproj|solutionrelative:interface\\compras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50195F7-1BAA-4DC9-B059-FBD83FF8B690}|Interface\\Interface.csproj|c:\\users\\luik1212\\documents\\github\\farmacia2\\farmacia\\interface\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D50195F7-1BAA-4DC9-B059-FBD83FF8B690}|Interface\\Interface.csproj|solutionrelative:interface\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50195F7-1BAA-4DC9-B059-FBD83FF8B690}|Interface\\Interface.csproj|c:\\users\\luik1212\\documents\\github\\farmacia2\\farmacia\\interface\\cierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D50195F7-1BAA-4DC9-B059-FBD83FF8B690}|Interface\\Interface.csproj|solutionrelative:interface\\cierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50195F7-1BAA-4DC9-B059-FBD83FF8B690}|Interface\\Interface.csproj|c:\\users\\luik1212\\documents\\github\\farmacia2\\farmacia\\interface\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D50195F7-1BAA-4DC9-B059-FBD83FF8B690}|Interface\\Interface.csproj|solutionrelative:interface\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,11 +42,47 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CierreCaja.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Farmacia2\\Farmacia\\Interface\\CierreCaja.cs",
+              "RelativeDocumentMoniker": "Interface\\CierreCaja.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Farmacia2\\Farmacia\\Interface\\CierreCaja.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interface\\CierreCaja.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T01:06:19.781Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Farmacia2\\Farmacia\\Interface\\Clientes.cs",
+              "RelativeDocumentMoniker": "Interface\\Clientes.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Farmacia2\\Farmacia\\Interface\\Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interface\\Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T01:06:17.862Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Compras.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Farmacia2\\Farmacia\\Interface\\Compras.cs",
+              "RelativeDocumentMoniker": "Interface\\Compras.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Farmacia2\\Farmacia\\Interface\\Compras.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interface\\Compras.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T01:06:15.252Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Validador.cs",
-              "DocumentMoniker": "C:\\Users\\Luik1212\\source\\repos\\Farmacia\\Interface\\Validador.cs",
+              "DocumentMoniker": "C:\\Users\\Luik1212\\Documents\\GitHub\\Farmacia2\\Farmacia\\Interface\\Validador.cs",
               "RelativeDocumentMoniker": "Interface\\Validador.cs",
-              "ToolTip": "C:\\Users\\Luik1212\\source\\repos\\Farmacia\\Interface\\Validador.cs",
+              "ToolTip": "C:\\Users\\Luik1212\\Documents\\GitHub\\Farmacia2\\Farmacia\\Interface\\Validador.cs",
               "RelativeToolTip": "Interface\\Validador.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwCkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
